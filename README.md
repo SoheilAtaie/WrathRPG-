@@ -17,4 +17,4 @@ Please note that this list is updated on a frequent manner.
 
 The playable version is to be launched soon.
 
-Please also visit my personal pag: https://soheilataie.github.io/
+Please also visit my personal page: https://soheilataie.github.io/
